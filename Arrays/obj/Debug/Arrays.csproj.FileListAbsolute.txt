@@ -1,0 +1,12 @@
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\bin\Debug\EX1.exe.config
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\bin\Debug\EX1.exe
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\bin\Debug\EX1.pdb
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\obj\Debug\EX1.exe
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\EX1\obj\Debug\EX1.pdb
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Ярослав\Dropbox\GitHub\Arrays\Arrays\bin\Debug\Arrays.pdb
